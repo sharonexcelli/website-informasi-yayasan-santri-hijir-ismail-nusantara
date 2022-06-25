@@ -3,9 +3,9 @@
 Pembuatan website ini untuk memenuhi tugas akhir rekayasa perangkat lunak 2
 
 ### Nama Anggota:
-- Mahendra Perdana 53418938
-- Umar 57418176
-- Vincentius Sharon Excelli Lauder 57418241
+- Mahendra Perdana 53418938 4IA12
+- Umar 57418176 4IA12
+- Vincentius Sharon Excelli Lauder 57418241 4IA12
 
 ### Nama Aplikasi: 
 Website informasi Yayasan Santri Hijir Ismail Nusantara
