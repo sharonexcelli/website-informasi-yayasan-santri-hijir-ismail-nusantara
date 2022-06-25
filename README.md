@@ -1,4 +1,4 @@
-# website-informasi-yayasan-santri-hijir-ismail-nusantara
+# Website informasi Yayasan Santri Hijir Ismail Nusantara
 
 Pembuatan website ini untuk memenuhi tugas akhir rekayasa perangkat lunak 2
 
