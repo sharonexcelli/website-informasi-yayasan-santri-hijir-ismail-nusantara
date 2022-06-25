@@ -1,0 +1,80 @@
+@media screen and (min-width: 720px) {
+   .pd-d-2.ll{
+    padding-left:10vw;
+  }
+}
+  .client img {
+  width: 6rem;
+  height: 6rem;
+  object-fit: contain;
+}.pd-d-2{
+  padding-left:1rem;padding-bottom:2rem;padding-top:2rem
+}
+
+.my-card-detail {
+  font-size: 80%;
+}
+
+.customhome .img-fluid,
+.img-thumbnail {
+  width: 100%;
+  height: 365px;
+  object-fit: cover;
+}
+
+.grecaptcha-badge {
+  display: none !important;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+  white-space: pre;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+.bdetail {
+  border: solid 1.2px #306eff;
+  border-radius: 5px;
+}
+
+.my-profile {
+  height: 40vh;
+  object-fit: cover;
+  object-position: center top;
+}
+
+.avatar.rounded-circle img {
+  border-radius: 50%;
+  object-fit: cover;
+  width: 85px;
+  height: 85px;
+}.bg-gradient-primary, .bg-gradient-primary {
+    background: -o-linear-gradient(40deg,#306eff 0,#3030ff 100%)!important;
+    background: linear-gradient(50deg,#0f6e09,#073505)!important;
+}.swiper-pagination-bullet-active{
+  background:#073805!important
+}.blockquote .quote:before{
+  color:#073805!important
+}.bg-primary, .btn-primary, .bg-primary-dark {
+    background-color: #073805!important;
+    border-color: #073805;
+}
+
+
+
+@media screen and (max-width: 360px) {
+  .my-logo-kta-reg {
+    width: auto !important;
+  }
+
+  .my-logo-kta-reg img {
+    width: 3rem !important;
+    border-radius: 100%;
+  }.pd-d-2.ll{
+    padding-bottom:1rem;padding-top:1rem;padding-left:0
+  }
+
+  .my-body-stp1 {
+    padding-top: 1rem !important;
+  }
+}

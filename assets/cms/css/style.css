@@ -1,0 +1,49 @@
+.custom-control-label {
+  cursor: pointer;
+}
+
+.bootstrap-tagsinput input {
+  border-bottom: 1px solid #e0e6ed;
+  width: 100%;
+}
+
+.bootstrap-tagsinput input:focus {
+  border-bottom: 1px solid #e0e6ed;
+  width: 100%;
+}
+
+.item-mark {
+  display: block;
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  line-height: 30px;
+  vertical-align: middle;
+  text-decoration: none;
+  width: 28px;
+  height: 28px;
+  text-align: center;
+  background-color: #eee;
+  color: #999;
+  border-radius: 100%;
+  box-shadow: 0 3px 3px -2px #666;
+}
+
+.item-mark.active {
+  background-color: #098bf4;
+  color: #fff;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+  white-space: pre;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+.my-none {
+  display: none;
+}
+
+.grecaptcha-badge {
+  display: none !important;
+}
