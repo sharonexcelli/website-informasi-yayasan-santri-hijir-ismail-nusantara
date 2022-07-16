@@ -2,6 +2,7 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 date_default_timezone_set('Asia/Jakarta');
 
+
 /*
 |--------------------------------------------------------------------------
 | Base Site URL
@@ -24,7 +25,7 @@ date_default_timezone_set('Asia/Jakarta');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'https://yayasan-santri.beruangstudio.com/';
+$config['base_url'] = 'http://localhost/yayasan-santri/';
 
 /*
 |--------------------------------------------------------------------------
@@ -36,7 +37,7 @@ $config['base_url'] = 'https://yayasan-santri.beruangstudio.com/';
 | variable so that it is blank.
 |
 */
-$config['index_page'] = 'index.php';
+$config['index_page'] = '';
 
 /*
 |--------------------------------------------------------------------------

@@ -79,16 +79,16 @@
               <a class="nav-link" href="<?= base_url()?>">HOME</a>
             </li>
             <li class="nav-item d-lg-none d-xl-block">
-              <a class="nav-link" href="<?= base_url()?>aboutus">TENTANG PONDOK</a>
+              <a class="nav-link" href="<?= base_url()?>index.php/aboutus">TENTANG PONDOK</a>
             </li>
             <li class="nav-item d-lg-none d-xl-block">
-              <a class="nav-link" href="<?= base_url()?>profile-pengajar">PROFIL PENGAJAR</a>
+              <a class="nav-link" href="<?= base_url()?>index.php/profile-pengajar">PROFIL PENGAJAR</a>
             </li>
             <li class="nav-item d-lg-none d-xl-block">
-              <a class="nav-link" href="<?= base_url()?>news">BERITA</a>
+              <a class="nav-link" href="<?= base_url()?>index.php/news">BERITA</a>
             </li>
             <li class="nav-item d-lg-none d-xl-block">
-              <a href="<?= base_url()?>contactus"   class="btn btn-sm btn-white rounded-pill btn-icon rounded-pill d-none d-lg-inline-flex">
+              <a href="<?= base_url()?>index.php/contactus"   class="btn btn-sm btn-white rounded-pill btn-icon rounded-pill d-none d-lg-inline-flex">
 
               <span class="btn-inner--text">KONTAK</span>
               </a>

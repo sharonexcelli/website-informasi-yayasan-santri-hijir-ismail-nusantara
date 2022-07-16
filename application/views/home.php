@@ -6,7 +6,7 @@
         <!-- SVG illustration -->
         <div class="pt-7 position-absolute middle right-0 col-lg-7 col-xl-6 d-none d-lg-block" style="top: 37%">
             <figure class="w-100" style="max-width: 1000px;">
-                <img alt="Image placeholder" src="/assets/img/icon-santrti.png" class="img-fluid">
+                <img alt="Image placeholder" src="<?=base_url()?>assets/img/icon-santrti.png" class="img-fluid">
             </figure>
         </div>
 

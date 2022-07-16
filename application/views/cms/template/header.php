@@ -70,7 +70,7 @@ $class = $this->router->class;
         <!-- Avatar -->
         <div>
           <a href="#" class="avatar rounded-circle avatar-xl">
-            <img alt="Image placeholder" src="/assets/img/user.png" class="">
+            <img alt="Image placeholder" src="<?=base_url();?>assets/img/user.png" class="">
           </a>
           <div class="mt-4">
             <h5 class="mb-0 text-white"><?=$this->session->userdata('admin')->name?></h5>
@@ -148,7 +148,7 @@ $class = $this->router->class;
               <li class="nav-item dropdown dropdown-animate ">
                 <a class="nav-link pr-lg-0 " href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                   <span class="avatar avatar-sm rounded-circle">
-                    <img alt="Image placeholder" src="/assets/img/user.png">
+                    <img alt="Image placeholder" src="<?=base_url();?>assets/img/user.png">
                   </span>
                 </a>
                 <div class="dropdown-menu dropdown-menu-sm dropdown-menu-right dropdown-menu-arrow">
@@ -285,7 +285,7 @@ $class = $this->router->class;
                 <a class="nav-link pr-lg-0" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                   <div class="media media-pill align-items-center">
                     <span class="avatar rounded-circle">
-                      <img alt="Image placeholder" src="/assets/img/user.png">
+                      <img alt="Image placeholder" src="<?=base_url();?>assets/img/user.png">
                     </span>
                     <div class="ml-2 d-none d-lg-block">
                       <span class="mb-0 text-sm  font-weight-bold"><?=$this->session->userdata('admin')->name?></span>

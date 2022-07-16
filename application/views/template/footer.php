@@ -46,7 +46,7 @@ Jl. Bambu Kuning Dalam RT 05/13 Kec. Bojonggede Kab. Bogor</h6>
           <div class="col-md-6">
             <ul class="nav justify-content-center justify-content-md-end mt-3 mt-md-0">
               <li class="nav-item">
-                  <a href="https://yayasan-santri.beruangstudio.com/#" class="nav-link" target="_blank">
+                  <a href="http://localhost/yayasan-santri/#" class="nav-link" target="_blank">
                       <i class="fab fa-youtube"></i>
                   </a>
               </li>

@@ -1,7 +1,7 @@
 <?php $this->load->view('template/header'); ?>
 <div class="main-content">
     <!-- Cover (v2) -->
-    <section class="spotlight bg-cover bg-size--cover" data-spotlight="fullscreen" style="background-image: url('/assets/img/Yayasan.jpeg');">
+    <section class="spotlight bg-cover bg-size--cover" data-spotlight="fullscreen" style="background-image: url('<?=base_url()?>assets/img/Yayasan.jpeg');">
         <span class="mask bg-dark opacity-7"></span>
         <div class="spotlight-holder pt-9 pb-6 py-lg-0">
             <div class="container d-flex align-items-center px-0">
@@ -31,7 +31,7 @@
                 <div class="col-lg-4 text-center">
 
                     <h1>Sejarah</h1>
-                    <img src="/assets/img/kepalaPondok.png" class="img img-rounded" width="100%"/>
+                    <img src="<?=base_url()?>assets/img/kepalaPondok.png" class="img img-rounded" width="100%"/>
                     <strong>Kepala Pondok</strong>
                 </div>
                 <div class="col-lg-8">
